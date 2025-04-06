@@ -7,7 +7,7 @@ I am the co-founder of **[space+ultra](https://spaceplusultra.com)** — a Berli
 ---
 
 ## 🛠️ Tools & Technologies:
-- 📋 **Management**: Notion, Google Workspace, Asana, Miro  
+- 📋 **Product Management**: Agile, Roadmapping, Stakeholder Management, Notion, Asana, Miro
 - 📈 **Data & Analytics**: SQL, BigQuery, Python, R, Tableau  
 - 🤖 **AI & Automation**: LLM APIs, ML models, Pydantic-AI, LangChain, LangGraph, Airtable, n8n  
 - ☁️ **Cloud & DevOps**: Google Cloud Console, Vercel, Railway, Supabase, Docker
