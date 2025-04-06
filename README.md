@@ -37,10 +37,10 @@ Together, **space+ultra** embodies a forward-thinking approach to solving comple
 ---
 
 ## 📫 Let's Connect:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  
-- ✉️ [Email](mailto:info@spaceplusultra.com)
-- 🔗 [Website](https://spaceplusultra.com)
-- 📝 [em-dash](https://spaceplusultra.com/em-dash)
+🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  ✉️ [Email](mailto:info@spaceplusultra.com)  🔗 [Website](https://spaceplusultra.com) 📝 [em-dash](https://spaceplusultra.com/em-dash)
+
+
+
 
 
 ![s+u](https://github.com/space-ultra/website/blob/main/styles/assets/tim_spu.jpg?raw=true)
