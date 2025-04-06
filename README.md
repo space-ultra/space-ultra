@@ -37,7 +37,7 @@ Together, **space+ultra** embodies a forward-thinking approach to solving comple
 ---
 
 ## 📫 Let's Connect:
-🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  ✉️ [Email](mailto:info@spaceplusultra.com)  🔗 [Website](https://spaceplusultra.com) 📝 [em-dash](https://spaceplusultra.com/em-dash)
+🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  ✉️ [Email](mailto:info@spaceplusultra.com)  🔗 [Website](https://spaceplusultra.com)
 
 
 
