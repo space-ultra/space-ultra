@@ -1,6 +1,6 @@
 # Hi there! I'm Tim
 
-I am the co-founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based software developer, consultant, and agency with a strong background in urban technology.
+I am the co-founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based software developer, consultant, and agency with a strong background in AI and urban technology.
 
 🌟 **My Focus**: As a Lead Product Manager I am committed to crafting innovative and sustainable digital solutions that address complex challenges with precision and a data-driven mindset.
 
