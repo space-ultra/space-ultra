@@ -1,29 +1,10 @@
 # Hi there! I'm Tim
 
-I am the co-founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based software developer, consultant, and agency with a strong background in AI and urban technology.
+I am the founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based software developer, consultant, and agency with a strong background in AI and urban technology.
 
 🌟 **My Focus**: As a Lead Product Manager I am committed to crafting innovative and sustainable digital solutions that address complex challenges with precision and a data-driven mindset.
 
----
-
-## 🛠️ Tools & Technologies:
-- 📋 **Product Management**: Agile, Roadmapping, Stakeholder Management, Notion, Asana, Miro
-- 📈 **Data & Analytics**: SQL, BigQuery, Python, R, Tableau  
-- 🤖 **AI & Automation**: LLM APIs, ML models, Pydantic-AI, LangChain, LangGraph, Airtable, n8n  
-- ☁️ **Cloud & DevOps**: Google Cloud Console, Vercel, Railway, Supabase, Docker
-
----
-
-## 💼 What I Do:
-- 🚀 **Product Development**:  Building tools like **em-dash**, our flagship AI-powered platform for smart customer engagement, **arc-dash**, an AI chatbot for navigating public projects, and **dat-kai**, a geospatial platform for urban planning and visualization.
-- 🤖 **Artificial Intelligence**:  Creating AI agents to automate workflows, enhance collaboration, and provide predictive insights.
-- 📊 **Data Analytics**:  Proficient in working with diverse datasets, GIS analysis, and ETL workflows. Recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
-
----
-
 ## 🌌 Why **space+ultra**?
-
-**Pushing Limits, Delivering Results** — our motto encapsulates our commitment to excellence and innovation.
 
 The name **space+ultra** reflects our vision of pushing boundaries and exploring new dimensions in urban technology and design.
 
@@ -38,12 +19,6 @@ Together, **space+ultra** embodies a forward-thinking approach to solving comple
 
 ## 📫 Let's Connect:
 🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  ✉️ [Email](mailto:info@spaceplusultra.com)  🔗 [Website](https://spaceplusultra.com)
-
-
-
-
-
-![s+u](https://github.com/space-ultra/website/blob/main/styles/assets/tim_spu.jpg?raw=true)
 
 
 
