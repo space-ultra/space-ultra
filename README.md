@@ -2,9 +2,9 @@
 
 I am the founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based AI Product Lab. We don't just build software; we architect intelligent systems to solve the web's most complex interaction challenges. Our approach is rooted in systems thinking, where we deconstruct business processes to their foundational level and design AI-native solutions for real-world impact.
 
-Our "Lab-to-Product" model is core to how we operate. We engage in deep, strategic R&D partnerships to validate core hypotheses and generate proprietary insights. This hardened expertise is then channeled into our own commercial products.
-Our flagship product, em•dash, is the embodiment of this philosophy. It is a proactive AI agent that understands "digital body language" to turn unspoken user intent into qualified leads and measurable revenue for B2B SaaS companies.
-We build governable, stateful, and outcome-driven AI.
+- Our "Lab-to-Product" model is core to how we operate. We engage in deep, strategic R&D partnerships to validate core hypotheses and generate proprietary insights. This hardened expertise is then channeled into our own commercial products.
+- Our flagship product, em•dash, is the embodiment of this philosophy. It is a proactive AI agent that understands "digital body language" to turn unspoken user intent into qualified leads and measurable revenue for B2B SaaS companies.
+- We build governable, stateful, and outcome-driven AI.
 
 🌟 **My Focus**: As a Lead Product Manager I am committed to crafting innovative and sustainable digital solutions that address complex challenges with precision and a data-driven mindset.
 
