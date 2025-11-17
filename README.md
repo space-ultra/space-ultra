@@ -1,4 +1,4 @@
-# Hi there! I'S
+# Hi there! I'm Tim.
 I am the founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based AI Product Lab. We don't just build software; we architect intelligent, stateful, and outcome-driven AI systems that solve the web's most complex interaction challenges.
 
 Our approach is rooted in systems thinking. We deconstruct business processes to their foundational level and design AI-native solutions that drive real-world impact.
