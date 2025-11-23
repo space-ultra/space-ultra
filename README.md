@@ -4,7 +4,7 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-b
 Our approach is rooted in systems thinking. We deconstruct business processes to their foundational level and design AI-native solutions that drive real-world impact.
 
 -   **Our "Lab-to-Product" Model:** We engage in deep R&D partnerships to validate core hypotheses and generate proprietary insights. This hardened expertise is then channeled into our own commercial products.
--   **Our Flagship Product:** `em•dash` is the embodiment of this philosophy. It's a proactive AI agent that reads "digital body language," moves beyond correlation to understand **Causal AI**, and turns unspoken user intent into measurable revenue for B2B SaaS companies.
+-   **Our Flagship Product:** `em•dash` is the embodiment of this philosophy. It's a proactive AI agent that reads "digital body language," moves beyond correlation to understand **Causal AI**, and turns unspoken user intent into measurable revenue for companies.
 
 ---
 
