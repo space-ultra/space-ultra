@@ -19,9 +19,8 @@ I don't just build software; I architect intelligent, stateful, and outcome-driv
 
 ### 🔭 Currently Building
 
-* **`em•dash`** — A proactive AI agent that reads "digital body language" on B2B SaaS platforms.
-* **Causal Conversion Engine** — An AI system moving beyond correlation to understand *why* users act, turning unspoken intent into measurable revenue.
-* **Lab-to-Product R&D** — Engaging in deep R&D partnerships to validate hypotheses and generate proprietary insights.
+* **`em•dash`** — A proactive AI agent for B2B SaaS platforms. Powered by our proprietary **Causal Conversion Engine**, it reads "digital body language" and moves beyond simple correlation to understand *why* users act, turning unspoken intent into measurable revenue.
+* **Lab-to-Product R&D** — Engaging in deep R&D partnerships to validate core hypotheses and generate proprietary insights that fuel our product ecosystem.
 
 ### 🛠️ Architecture & Tech Stack
 
