@@ -42,28 +42,28 @@ I don't just build software; I architect intelligent, stateful, and outcome-driv
 <br>
 
 ```mermaid
-graph TD
-    subgraph Edge ["Client Environment"]
-        A[User Interaction] --> B[Behavioral Tracker]
-        C[Proactive UI Widget] --> A
-    end
-
-    subgraph Core ["em•dash AI Platform"]
-        B -- "Digital Body Language" --> D[Real-time Ingestion]
-        D --> E[Stateful Intent Scoring]
-        
-        E --> F{Causal Conversion Engine}
-        F -- "Analyzes WHY" --> G[Counterfactual Reasoning]
-        F -- "Decides WHAT" --> H[Dynamic Intervention Logic]
-        
-        G --> H
-    end
-
-    H -- "Delivers Action" --> C
+flowchart LR
+    A([👤 User Interaction]) -->|"Digital Body Language"| B(Real-time Ingestion)
     
+    subgraph Platform ["em•dash AI Platform"]
+        direction LR
+        B --> C(Stateful Intent Scoring)
+        C --> D{Causal Engine}
+        D -->|"Analyzes WHY"| E(Counterfactual Reasoning)
+        D -->|"Decides WHAT"| F(Dynamic Intervention)
+        E --> F
+    end
+
+    F -->|"Delivers Action"| G([✨ Proactive Widget])
+    G -.->|"Influences"| A
+
     classDef default fill:#0D1117,stroke:#58A6FF,stroke-width:1px,color:#C9D1D9;
     classDef engine fill:#1F2428,stroke:#EA4335,stroke-width:2px,color:#FFF;
-    class F engine;
+    classDef edge fill:#1F2428,stroke:#3ECF8E,stroke-width:1px,color:#FFF;
+    
+    class D engine;
+    class A,G edge;
+    style Platform fill:none,stroke:#30363d,stroke-width:1px,stroke-dasharray: 5 5
 
 ```
 
