@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Tymur 🚀</h1>
-<h3 align="center">Forward Deployed AI Engineer & 0→1 Product Architect | space+ultra</h3>
+<h3 align="center">Founder | space+ultra</h3>
 
 <p align="center">
   <a href="https://spaceplusultra.com" target="_blank">
@@ -15,7 +15,9 @@
 
 ---
 
-I operate at the intersection of high-level system design and direct enterprise engagement, translating ambiguous business workflows into deterministic, outcome-driven AI architectures. I utilize an AI-native orchestration paradigm—directing "lights-out" agentic development workflows (like Google Jules) to maintain massive architectural context and ship complex systems at extreme velocity.
+I am the founder of **space+ultra**, an AI Product Lab based in Berlin. I specialize in building complex, 0→1 AI-native platforms—moving beyond simple LLM wrappers to architect deterministic, causal, and multi-agent systems.
+
+My engineering philosophy relies on an **AI-native orchestration paradigm**. Rather than writing code manually, I act as a system architect. By directing autonomous AI coding agents, I can maintain massive architectural context and independently ship multi-layered enterprise platforms (from WASM edge-trackers to C# MCP servers) at a velocity that redefines traditional software development.
 
 ### 🔭 Recent & Active Architectures
 
