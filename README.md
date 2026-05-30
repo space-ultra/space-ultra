@@ -44,36 +44,6 @@ I operate at the intersection of high-level system design and direct enterprise 
 * **Edge & High-Performance Compute:** Rust/WASM (zero-copy ring buffers over `SharedArrayBuffer`) for edge tracking, and C++ for Unreal Engine 5 Game-thread concurrency and memory safety.
 * **Security & Infrastructure:** GCP GenAI Stack (Vertex AI, Gemini), ZK Privacy (Groth16 zero-knowledge proofs), and Supabase PostgreSQL with strictly enforced Row Level Security (RLS) policies.
 
-<details>
-<summary><b>⚙️ System Architecture: The em•dash Concept (Click to expand)</b></summary>
-<br>
-
-```mermaid
-flowchart LR
-    A([👤 User Interaction]) -->|"Digital Body Language"| B(Rust/WASM Edge Tracker)
-    
-    subgraph Platform ["em•dash AI Platform"]
-        direction LR
-        B --> C(Stateful Intent Scoring)
-        C --> D{Causal Engine / DML}
-        D -->|"Analyzes WHY"| E(Counterfactual Reasoning)
-        D -->|"Decides WHAT"| F(Dynamic Intervention via LangGraph)
-        E --> F
-    end
-
-    F -->|"Zero-Hallucination Action"| G([✨ Ambient GenUI])
-    G -.->|"Influences"| A
-
-    classDef default fill:#0D1117,stroke:#58A6FF,stroke-width:1px,color:#C9D1D9;
-    classDef engine fill:#1F2428,stroke:#EA4335,stroke-width:2px,color:#FFF;
-    classDef edge fill:#1F2428,stroke:#3ECF8E,stroke-width:1px,color:#FFF;
-    
-    class D engine;
-    class A,G edge;
-    style Platform fill:none,stroke:#30363d,stroke-width:1px,stroke-dasharray: 5 5
-```
-
-</details>
 ---
 
 <details>
