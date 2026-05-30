@@ -21,7 +21,7 @@ I operate at the intersection of high-level system design and direct enterprise 
 
 * **`Baumind`** — An enterprise AI Copilot for BIM model auditing and building code compliance. Architected using a hierarchical LangGraph multi-agent swarm and a custom Zero-Payload C# MCP server to ensure strict regulatory data isolation within legacy CAD environments.
 * **`em•dash`** — A proactive AI agent for B2B SaaS powered by a proprietary **Causal Conversion Engine**. It leverages Double Machine Learning (DoWhy, EconML) and a sub-30ms Rust/WASM edge tracker to evaluate "digital body language" and mathematically prove Net Incremental Revenue (NIR).
-* **`UE5 Workflow Automator`** — A complex Unreal Engine 5 automation plugin (94,000 LOC of C++) developed and deployed in 10 weeks by orchestrating autonomous AI coding pipelines (Google Jules, Antigravity).
+* **`UE5 Workflow Automator`** — A complex Unreal Engine 5 automation plugin (C++).
 
 ### 🛠️ Architecture & Agentic Tech Stack
 
