@@ -28,15 +28,21 @@ I operate at the intersection of high-level system design and direct enterprise 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005863?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005863?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+**Core Paradigms & Implementation:**
+* **Multi-Agent Orchestration:** LangGraph (Supervisor-Worker topologies), Pydantic-AI, and custom Zero-Payload Model Context Protocol (MCP) servers for secure legacy CAD integrations (Revit API).
+* **Causal Inference & RLHF:** DoWhy and EconML (Double Machine Learning) for evaluating Net Incremental Revenue (NIR). Edge-Native LinUCB Contextual Bandits using fixed-point arithmetic (`Q16x16`) for sub-30ms intent evaluation.
+* **Knowledge & Memory:** Neo4j (Spatial Property Graphs for architectural topologies) and Hybrid RAG pipelines (pgvector + BM25 keyword fallback) for high-availability regulatory grounding.
+* **Edge & High-Performance Compute:** Rust/WASM (zero-copy ring buffers over `SharedArrayBuffer`) for edge tracking, and C++ for Unreal Engine 5 Game-thread concurrency and memory safety.
+* **Security & Infrastructure:** GCP GenAI Stack (Vertex AI, Gemini), ZK Privacy (Groth16 zero-knowledge proofs), and Supabase PostgreSQL with strictly enforced Row Level Security (RLS) policies.
 
 <details>
 <summary><b>⚙️ System Architecture: The em•dash Concept (Click to expand)</b></summary>
@@ -68,16 +74,6 @@ flowchart LR
 ```
 
 </details>
-
----
-
-### 🌟 Core Expertise
-
-* **AI-Native Engineering Paradigm:** Accelerating SDLC through the orchestration of agentic workflows while maintaining strict architectural governance.
-* **Production-Grade Integration:** Embedding frontier AI capabilities into strictly regulated, heterogeneous legacy infrastructures via Zero-Payload secure patterns.
-* **Evaluation & Reliability:** Designing causal inference frameworks (DoWhy, EconML) and continuous placebo testing to mathematically prove business impact and prevent hallucinated ROI.
-* **Multi-Agent Orchestration:** Deconstructing complex enterprise bottlenecks into stateful, hierarchical multi-agent swarms using LangGraph.
-
 ---
 
 <details>
