@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Tymur 🚀</h1>
-<h3 align="center">Founder | space+ultra</h3>
+<h3 align="center">Founder & 0→1 Product Architect | space+ultra</h3>
 
 <p align="center">
   <a href="https://spaceplusultra.com" target="_blank">
@@ -15,15 +15,15 @@
 
 ---
 
-I am the founder of **space+ultra**, an AI Product Lab based in Berlin. I specialize in building complex, 0→1 AI-native platforms—moving beyond simple LLM wrappers to architect deterministic, causal, and multi-agent systems.
+I am a 2x founder and the architect behind **space+ultra**, an AI Product Lab based in Berlin. 
 
-My engineering philosophy relies on an **AI-native orchestration paradigm**. Rather than writing code manually, I act as a system architect. By directing autonomous AI coding agents, I can maintain massive architectural context and independently ship multi-layered enterprise platforms (from WASM edge-trackers to C# MCP servers) at a velocity that redefines traditional software development.
+I build systems that don't fall apart when the LLM hallucinates.  At space+ultra, I treat AI not as magic, but as a volatile, high-entropy component that needs a strong architectural wrapper. I spend my time building deterministic boundaries, state machines, and evaluation pipelines that make agentic systems predictable enough to actually run in production.  I’m less interested in prompt engineering and more interested in systems that reliably bridge the gap between "AI proof-of-concept" and "enterprise-grade infrastructure".
 
 ### 🔭 Recent & Active Architectures
 
-* **`Baumind`** — An enterprise AI Copilot for BIM model auditing and building code compliance. Architected using a hierarchical LangGraph multi-agent swarm and a custom Zero-Payload C# MCP server to ensure strict regulatory data isolation within legacy CAD environments.
-* **`em•dash`** — A proactive AI agent for B2B SaaS powered by a proprietary **Causal Conversion Engine**. It leverages Double Machine Learning (DoWhy, EconML) and a sub-30ms Rust/WASM edge tracker to evaluate "digital body language" and mathematically prove Net Incremental Revenue (NIR).
-* **`UE5 Workflow Automator`** — A complex Unreal Engine 5 automation plugin (C++).
+* **`Baumind`** — An enterprise AI Copilot for BIM model auditing and building code compliance. Architected a LangGraph multi-agent swarm grounded in a **Hybrid Graph RAG** pipeline (Neo4j, pgvector). Designed a custom **Zero-Payload C# MCP server** to securely execute agentic logic inside legacy CAD environments (Revit API) without exposing sensitive 3D IP over the wire.
+* **`em•dash`** — A proactive AI agent for B2B SaaS powered by a proprietary **Causal Conversion Engine**. It leverages Double Machine Learning (DoWhy, EconML) and a sub-30ms Rust/WASM edge tracker to evaluate "digital body language," mathematically prove Net Incremental Revenue (NIR), and generate dynamic Agent-to-User Interfaces (A2UI).
+* **`UE5 Workflow Automator`** — Embedded automation architecture for commercial 3D staging. Orchestrated autonomous AI coding agents to design and deploy a **94,000 LOC C++ Unreal Engine 5 plugin** in just 10 weeks, enforcing strict game-thread concurrency and memory safety.
 
 ### 🛠️ Architecture & Agentic Tech Stack
 
@@ -37,14 +37,14 @@ My engineering philosophy relies on an **AI-native orchestration paradigm**. Rat
 [![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005863?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 **Core Paradigms & Implementation:**
-* **Multi-Agent Orchestration:** LangGraph (Supervisor-Worker topologies), Pydantic-AI, and custom Zero-Payload Model Context Protocol (MCP) servers for secure legacy CAD integrations (Revit API).
-* **Causal Inference & RLHF:** DoWhy and EconML (Double Machine Learning) for evaluating Net Incremental Revenue (NIR). Edge-Native LinUCB Contextual Bandits using fixed-point arithmetic (`Q16x16`) for sub-30ms intent evaluation.
+* **Multi-Agent Orchestration:** LangGraph (Supervisor-Worker topologies), Pydantic-AI, and custom Zero-Payload Model Context Protocol (MCP) servers.
+* **Evaluation & Governance:** LLM Observability (Langfuse), LLM-as-a-judge pipelines, and custom cost-per-request tracking to ensure robust production governance.
+* **Causal Inference & RLHF:** DoWhy and EconML (Double Machine Learning) for isolating persuasion effects. Edge-Native LinUCB Contextual Bandits using fixed-point arithmetic (`Q16x16`).
 * **Knowledge & Memory:** Neo4j (Spatial Property Graphs for architectural topologies) and Hybrid RAG pipelines (pgvector + BM25 keyword fallback) for high-availability regulatory grounding.
-* **Edge & High-Performance Compute:** Rust/WASM (zero-copy ring buffers over `SharedArrayBuffer`) for edge tracking, and C++ for Unreal Engine 5 Game-thread concurrency and memory safety.
-* **Security & Infrastructure:** GCP GenAI Stack (Vertex AI, Gemini), ZK Privacy (Groth16 zero-knowledge proofs), and Supabase PostgreSQL with strictly enforced Row Level Security (RLS) policies.
+* **Edge & High-Performance Compute:** Rust/WASM (zero-copy ring buffers over `SharedArrayBuffer`) for 50Hz edge telemetry, and C++ for Unreal Engine 5 concurrency.
+* **Security & Infrastructure:** GCP GenAI Stack (Vertex AI, Gemini), ZK Privacy (Groth16 zero-knowledge proofs), and Supabase PostgreSQL with strictly enforced Row Level Security (RLS).
 
 ---
 
